@@ -20,13 +20,13 @@ Currently exploring **LLM Engineering and Retrieval-Augmented Generation (RAG)**
 
 ### 🚀 Featured Projects
 
-**[DocFlow](https://github.com/Priyall-114/DocFlow)** — AI-powered document management platform with a custom RAG pipeline, MongoDB Atlas Vector Search, and automated RAGAS evaluation. Improved faithfulness from 30.4% to 79.5%.
+**DocFlow** — AI-powered document management platform with a custom RAG pipeline, MongoDB Atlas Vector Search, and automated RAGAS evaluation. Improved faithfulness from 30.4% to 79.5%.
 
-**[Semantic Caching](https://github.com/Priyall-114/Semantic-Caching)** — Built a semantic caching layer using Spring Boot, FastAPI, Redis, and Sentence Transformers, achieving approximately 50x faster responses on cache hits.
+**Semantic Caching** — Built a semantic caching layer using Spring Boot, FastAPI, Redis, and Sentence Transformers, achieving approximately 50x faster responses on cache hits.
 
-**[AWS Cost Monitor](https://github.com/Priyall-114/aws-cost-monitor)** — Serverless AWS cost-monitoring dashboard with automated budget alerts, Lambda, EventBridge, and DynamoDB.
+**AWS Cost Monitor** — Serverless AWS cost-monitoring dashboard with automated budget alerts, Lambda, EventBridge, and DynamoDB.
 
-**[MindScribe Journal](https://github.com/Priyall-114/MindScribe-Journal)** — Spring Boot journaling application with Redis caching, Gemini-powered summaries, and sentiment analysis.
+**MindScribe Journal** — Spring Boot journaling application with Redis caching, Gemini-powered summaries, and sentiment analysis.
 
 ### 🤝 Connect With Me
 
