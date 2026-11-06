@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Priyal 👋
 
-<!--
-**Priyall-114/Priyall-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineering | LLMs | RAG Systems
 
-Here are some ideas to get you started:
+Third-year Computer Science undergraduate at BIT Mesra, interested in building scalable backend systems and intelligent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **LLM Engineering and Retrieval-Augmented Generation (RAG)**, with hands-on experience in building custom retrieval pipelines, vector search systems, semantic caching, and backend microservices.
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, Python, C, JavaScript
+
+**Backend:** Spring Boot, FastAPI, REST APIs, Spring Security
+
+**AI / LLM:** RAG, LLM Integration, Sentence Transformers, Embeddings, Vector Search, RAGAS, Semantic Caching
+
+**Databases & Cloud:** MongoDB, MongoDB Atlas Vector Search, Redis, MySQL, AWS
+
+**Tools:** Git, Postman, Swagger, IntelliJ IDEA, VS Code ,Codex
+
+### 🚀 Featured Projects
+
+**[DocFlow](https://github.com/Priyall-114/DocFlow)** — AI-powered document management platform with a custom RAG pipeline, MongoDB Atlas Vector Search, and automated RAGAS evaluation. Improved faithfulness from 30.4% to 79.5%.
+
+**[Semantic Caching](https://github.com/Priyall-114/Semantic-Caching)** — Built a semantic caching layer using Spring Boot, FastAPI, Redis, and Sentence Transformers, achieving approximately 50x faster responses on cache hits.
+
+**[AWS Cost Monitor](https://github.com/Priyall-114/aws-cost-monitor)** — Serverless AWS cost-monitoring dashboard with automated budget alerts, Lambda, EventBridge, and DynamoDB.
+
+**[MindScribe Journal](https://github.com/Priyall-114/MindScribe-Journal)** — Spring Boot journaling application with Redis caching, Gemini-powered summaries, and sentiment analysis.
+
+### 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/priyal-bhardwaj-4a3854311) · [Email](mailto:priyalbhardwaj246@gmail.com) · [HackerRank](https://hackerrank.com/priyalbhardwaj23)
+
+---
+
+*Building backend systems and exploring the possibilities of LLM-powered applications.*
