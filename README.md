@@ -16,18 +16,19 @@ Currently exploring **LLM Engineering and Retrieval-Augmented Generation (RAG)**
 
 **Databases & Cloud:** MongoDB, MongoDB Atlas Vector Search, Redis, MySQL, AWS
 
-**Tools:** Git, Postman, Swagger, IntelliJ IDEA, VS Code ,Codex
+**Tools:** Postman, Swagger, IntelliJ IDEA, VS Code ,Codex
 
-### 🚀 Featured Projects
+🚀 Featured Projects
 
-**DocFlow** — AI-powered document management platform with a custom RAG pipeline, MongoDB Atlas Vector Search, and automated RAGAS evaluation. Improved faithfulness from 30.4% to 79.5%.
+Source code is private. Happy to walk through any of these on request.
 
-**Semantic Caching** — Built a semantic caching layer using Spring Boot, FastAPI, Redis, and Sentence Transformers, achieving approximately 50x faster responses on cache hits.
+DocFlow: AI-powered document management platform with a custom RAG pipeline, MongoDB Atlas Vector Search, and automated RAGAS evaluation. Improved faithfulness from 30.4% to 79.5%.
 
-**AWS Cost Monitor** — Serverless AWS cost-monitoring dashboard with automated budget alerts, Lambda, EventBridge, and DynamoDB.
+Semantic Caching: Semantic caching layer built with Spring Boot, FastAPI, Redis, and Sentence Transformers, achieving ~50x faster responses on cache hits.
 
-**MindScribe Journal** — Spring Boot journaling application with Redis caching, Gemini-powered summaries, and sentiment analysis.
+MindScribe Journal: Spring Boot journaling application with Gemini-powered summaries and sentiment analysis. Integrated a Redis cache (5-minute TTL) for an external quotes API, cutting latency from ~120 ms to ~5 ms on cached responses.
 
+AWS Cost Monitor: Serverless AWS cost-monitoring dashboard with automated budget alerts, built on Lambda, EventBridge, and DynamoDB.
 ### 🤝 Connect With Me
 
 [LinkedIn](https://linkedin.com/in/priyal-bhardwaj-4a3854311) · [Email](mailto:priyalbhardwaj246@gmail.com) · [HackerRank](https://hackerrank.com/priyalbhardwaj23)
